@@ -1,3 +1,0 @@
-class ExcelxmlWriter < SpreadsheetWriter
-  
-end

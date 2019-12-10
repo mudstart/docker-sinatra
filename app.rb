@@ -1,3 +1,8 @@
+require 'sinatra'
+require 'dotenv'
+
+Dotenv.load
+
 #!/usr/bin/env ruby
 # By: MaG
 #

@@ -1,3 +1,0 @@
-class ExcelEditor < SpreadsheetEditor
-  
-end

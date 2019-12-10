@@ -1,6 +1,31 @@
 
 ## Instalacion
 
+Create Docker containers for services: 
+```
+docker-compose up --no-start
+```
+
+Install dependencies: 
+```
+docker-compose run --rm web bundle install
+```
+
+Create and start Docker containers. Starts development server: 
+docker-compose up. Use -d to start in detached mode: ```
+```
+run container in the background
+```
+
+Stops running containers without removing them: 
+```
+docker-compose stop
+```
+
+Stop and remove Docker containers, networks, images, and volumes created by up: 
+```
+docker-compose down
+```
 ```Consola
 $ bundle install
 ```
@@ -50,4 +75,3 @@ Ejemplo de respuesta:
   "valid": true
 }
 ```
-

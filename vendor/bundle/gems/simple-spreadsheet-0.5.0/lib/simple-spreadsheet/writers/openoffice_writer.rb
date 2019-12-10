@@ -1,3 +1,0 @@
-class OpenofficeWriter < SpreadsheetWriter
-  
-end

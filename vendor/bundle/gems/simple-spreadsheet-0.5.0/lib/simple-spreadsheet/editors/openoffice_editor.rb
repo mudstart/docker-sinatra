@@ -1,3 +1,0 @@
-class OpenofficeEditor < SpreadsheetEditor
-  
-end

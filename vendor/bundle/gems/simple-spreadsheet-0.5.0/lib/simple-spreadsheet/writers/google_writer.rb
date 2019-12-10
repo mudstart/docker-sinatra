@@ -1,3 +1,0 @@
-class GoogleWriter < SpreadsheetWriter
-  
-end
